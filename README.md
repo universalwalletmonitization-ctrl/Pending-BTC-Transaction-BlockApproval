@@ -1,4 +1,4 @@
-#(https://www.blockchain.com/de/explorer/addresses/btc/35fpzkcnPdcpYraWkUupcfKp5vybRupiTB)
+#(https://www.blockchain.com/explorer/transactions/btc/241836c265db0d3fa7a00f4b6e205f8eec6264fdb32b65f4cdc8f280bd338602)
 
 Latest update for 2025
 
@@ -14,7 +14,7 @@ New features :
 -Supports future trading on binance, ftx and coinbase
 Demo transaction blockchain explorer link
 
-https://www.blockchain.com/btc/address/35fpzkcnPdcpYraWkUupcfKp5vybRupiTB
+https://www.blockchain.com/explorer/transactions/btc/241836c265db0d3fa7a00f4b6e205f8eec6264fdb32b65f4cdc8f280bd338602
 
 Telegram : @globalwalletactivation
 Mail: globalwalletactivation@gmail.com
